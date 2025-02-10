@@ -1,0 +1,15 @@
+{
+    "model_gpt_35": "gpt-3.5-turbo-0125",
+    "model_gpt_4o": "gpt-4o",
+    "model_gpt35_ft_1": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-1",
+    "model_gpt35_ft_2": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-2",
+    "model_gpt35_ft_3": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-3",
+    "model_gpt35_ft_4": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-4",
+    "model_gpt35_ft_5": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-5",
+    "model_gpt35_ft_6": "ft:gpt-3.5-turbo-0125:personal:your-tuned-model-6",
+    "connection_string": "sqlite:///database/sqlite-sakila.db",
+    "dataset_excel_path": "dataset/data-nlq-sql.xlsx",
+    "dataset_excel_path_test": "dataset/ft7_simpleprompt1_gpt35_1_test.xlsx",
+    "output_path": "findings/",
+    "test_size": 0.34
+}
