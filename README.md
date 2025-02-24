@@ -1,4 +1,4 @@
-# T2S-run-experiment-openai-ft
+# t2s-run-experiment-openai-ft
 
 This repository contains scripts and resources for running and analyzing **Text-to-SQL (T2S)** experiments using **OpenAI GPT models** with fine-tuning. The main goal is to evaluate how well a fine-tuned GPT-based model can convert natural language questions (NLQs) into valid SQL queries and compare its performance across various metrics.
 
